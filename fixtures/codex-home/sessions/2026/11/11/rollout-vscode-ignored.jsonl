@@ -1,0 +1,2 @@
+{"timestamp":"2026-11-11T12:00:00.000Z","type":"session_meta","payload":{"id":"55555555-5555-4555-8555-555555555555","source":"vscode","cwd":"/Users/example/Projects/editor","model_provider":"openai","cli_version":"0.167.1","history_mode":"paginated"}}
+{"timestamp":"2026-11-11T12:00:01.000Z","type":"event_msg","payload":{"type":"task_started","turn_id":"55555555-cccc-4ccc-8ccc-cccccccccccc"}}
